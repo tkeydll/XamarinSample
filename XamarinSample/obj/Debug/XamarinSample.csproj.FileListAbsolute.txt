@@ -1,0 +1,13 @@
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\bin\Debug\XamarinSample.dll
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\bin\Debug\XamarinSample.pdb
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\bin\Debug\XamarinSample.dll.mdb
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\bin\Debug\XamarinSample.XamarinSample.apk
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\bin\Debug\XamarinSample.XamarinSample-Signed.apk
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\obj\Debug\XamarinSample.dll
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\obj\Debug\XamarinSample.pdb
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\obj\Debug\android\bin\XamarinSample.XamarinSample.apk
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\obj\Debug\res\layout\main.xml
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\obj\Debug\res\values\strings.xml
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\obj\Debug\res\drawable\icon.png
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\obj\Debug\R.cs.flag
+C:\Users\Kobay_000\Documents\GitHub\XamarinSample\XamarinSample\obj\Debug\uploadflags.txt
